@@ -1,0 +1,27 @@
+*{
+    margin: 5px 5px;
+    padding: 0;
+    text-decoration: none;
+}
+
+.logo {
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    border: 1px solid;
+}
+
+.apps{
+    display: flex;
+    align-items: center;
+}
+
+.logoapp {
+    width: 100px;
+    height: 100px;
+}
+
+.logoapp2 {
+    width: 65px;
+    height: 65px;
+}
